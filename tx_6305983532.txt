@@ -1,0 +1,6 @@
+Account Number: 6305983532
+Name: siva prasad reddy
+Initial Balance: 1000.00
+--------------------------------------------------------------
+Deposit: 2000.00  | Balance: 3000.00 | Time: 2025-09-20 15:32:26
+withdraw: 1000.00 | Balance: 2000.00 | Time: 2025-09-20 15:33:23
